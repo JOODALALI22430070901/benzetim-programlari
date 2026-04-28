@@ -1,0 +1,16 @@
+{
+    "parking_lot_name": "Smart City Parking",
+    "total_spots": 10,
+    "spots": [
+        {"id": 1, "x": 0, "y": 0, "status": "empty"},
+        {"id": 2, "x": 0, "y": 1, "status": "empty"},
+        {"id": 3, "x": 0, "y": 2, "status": "empty"},
+        {"id": 4, "x": 1, "y": 0, "status": "empty"},
+        {"id": 5, "x": 1, "y": 1, "status": "empty"},
+        {"id": 6, "x": 1, "y": 2, "status": "empty"},
+        {"id": 7, "x": 2, "y": 0, "status": "empty"},
+        {"id": 8, "x": 2, "y": 1, "status": "empty"},
+        {"id": 9, "x": 2, "y": 2, "status": "empty"},
+        {"id": 10, "x": 3, "y": 0, "status": "empty"}
+    ]
+}
